@@ -37,10 +37,6 @@ This updated format with emojis and bold font will make your GitHub README more 
 - 🛒 **Shopping cart functionality.**
 - 📦 **Order creation, tracking, and history.**
 
-**Payment Gateway Integration**:
-- 💳 **Secure payment processing.**
-- 💲 **Support for multiple payment methods.**
-
 **Customer Reviews and Ratings**:
 - ⭐ **Users can review and rate products.**
 - 📊 **Display average ratings and reviews on product pages.**
@@ -49,11 +45,8 @@ This updated format with emojis and bold font will make your GitHub README more 
 - 🔍 **Advanced search functionality.**
 - 🏷️ **Filters based on categories, price range, and ratings.**
 
-**Wishlist**:
-- ❤️ **Users can add products to their wishlist for future purchase.**
-
 **RESTful APIs**:
 - 🌐 **Expose APIs for all functionalities (user management, product management, order processing).**
 - 📘 **Secure and documented APIs using OpenAPI/Swagger.**
 
-This format is designed to be engaging and easy to read, making it ideal for your GitHub README.
+
