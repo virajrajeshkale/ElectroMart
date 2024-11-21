@@ -10,7 +10,7 @@ ElectroMart is a comprehensive electronic store platform designed to provide use
 - 🌐 **REST API**
 
 **Database**:
-- 🐬 **MySQL** / 🐘 **PostgreSQL** (or any other relational database)
+- 🐬 **MySQL** 
 
 **Security**:
 - 🔐 **Spring Security**
